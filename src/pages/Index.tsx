@@ -85,27 +85,27 @@ const Index = () => {
 
   const services = [
     {
-      image: "https://cdn.poehali.dev/projects/18b5b297-1a27-462b-9e7b-9286d403bdca/files/2e758e77-6f2b-4daa-9d57-fb68e3b57b7e.jpg",
+      image: "https://cdn.poehali.dev/projects/18b5b297-1a27-462b-9e7b-9286d403bdca/files/e5ccd598-46b5-4a4d-86b0-bc98afeed5a2.jpg",
       title: "Косметический ремонт",
       description: "Быстрое обновление интерьера без глобальных изменений"
     },
     {
-      image: "https://cdn.poehali.dev/projects/18b5b297-1a27-462b-9e7b-9286d403bdca/files/c971ebeb-2c8f-49d1-ab58-0902daa67bd5.jpg",
+      image: "https://cdn.poehali.dev/projects/18b5b297-1a27-462b-9e7b-9286d403bdca/files/fd7282f6-0df1-4fce-b9bc-678b360d1f41.jpg",
       title: "Капитальный ремонт",
       description: "Полная трансформация пространства под ваши потребности"
     },
     {
-      image: "https://cdn.poehali.dev/projects/18b5b297-1a27-462b-9e7b-9286d403bdca/files/8e042d42-b095-4c02-a38f-6c14eb5dbac1.jpg",
+      image: "https://cdn.poehali.dev/projects/18b5b297-1a27-462b-9e7b-9286d403bdca/files/d01ad933-bd90-4c79-9f10-2f2f5d74be36.jpg",
       title: "Дизайнерский ремонт",
       description: "Уникальный интерьер по индивидуальному проекту"
     },
     {
-      image: "https://cdn.poehali.dev/projects/18b5b297-1a27-462b-9e7b-9286d403bdca/files/7ba7040c-dcda-4859-80dc-02d5d274f164.jpg",
+      image: "https://cdn.poehali.dev/projects/18b5b297-1a27-462b-9e7b-9286d403bdca/files/937e0eea-ebb2-4ea7-b841-5352c73ec581.jpg",
       title: "Ремонт под ключ",
       description: "Комплексное решение от проекта до финальной уборки"
     },
     {
-      image: "https://cdn.poehali.dev/projects/18b5b297-1a27-462b-9e7b-9286d403bdca/files/bfc77e74-670f-44c1-80d7-ddff893c01ad.jpg",
+      image: "https://cdn.poehali.dev/projects/18b5b297-1a27-462b-9e7b-9286d403bdca/files/a74ef120-22dc-4db9-b832-fe521dfa48e2.jpg",
       title: "Полный финансовый отчет",
       description: "Прозрачная смета и детализация всех расходов на каждом этапе"
     }
