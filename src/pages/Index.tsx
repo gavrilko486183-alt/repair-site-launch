@@ -90,7 +90,7 @@ const Index = () => {
       description: "Быстрое обновление интерьера без глобальных изменений"
     },
     {
-      image: "https://cdn.poehali.dev/projects/18b5b297-1a27-462b-9e7b-9286d403bdca/files/fd7282f6-0df1-4fce-b9bc-678b360d1f41.jpg",
+      image: "https://cdn.poehali.dev/projects/18b5b297-1a27-462b-9e7b-9286d403bdca/files/06cd7663-d991-4612-8339-73abe497b4ee.jpg",
       title: "Капитальный ремонт",
       description: "Полная трансформация пространства под ваши потребности"
     },
@@ -100,7 +100,7 @@ const Index = () => {
       description: "Уникальный интерьер по индивидуальному проекту"
     },
     {
-      image: "https://cdn.poehali.dev/projects/18b5b297-1a27-462b-9e7b-9286d403bdca/files/937e0eea-ebb2-4ea7-b841-5352c73ec581.jpg",
+      image: "https://cdn.poehali.dev/projects/18b5b297-1a27-462b-9e7b-9286d403bdca/files/813736a1-11e3-4aa6-8473-f00f608461ba.jpg",
       title: "Ремонт под ключ",
       description: "Комплексное решение от проекта до финальной уборки"
     },
