@@ -49,13 +49,11 @@ def handler(event: dict, context) -> dict:
 
         token = os.environ.get('TELEGRAM_BOT_TOKEN')
         chat_id = os.environ.get('TELEGRAM_CHAT_ID')
-        print(f"TG token prefix: {token[:10] if token else 'MISSING'}, chat_id: {chat_id}")
         if token and chat_id:
             try:
                 send_telegram(token, chat_id, f"👁 Новый посетитель на сайте!\nВсего посещений: <b>{visit_count}</b>\nСегодня: <b>{today_count}</b>")
-                print("TG message sent OK")
-            except Exception as e:
-                print(f"TG error: {e}")
+            except Exception:
+                pass
     else:
         cursor.execute("SELECT visit_count FROM site_visits WHERE id = 1")
         result = cursor.fetchone()
