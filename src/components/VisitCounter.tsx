@@ -4,7 +4,7 @@ const VisitCounter = () => {
   useEffect(() => {
     const incrementVisit = async () => {
       try {
-        await fetch('https://functions.poehali.dev/62c13246-fe22-48a5-92c5-9ca72786e54f', {
+        await fetch('https://functions.poehali.dev/349af4c6-f220-422e-8973-b9bd9d857fdd', {
           method: 'POST'
         });
       } catch (error) {
