@@ -350,7 +350,7 @@ const Index = () => {
                     </a>
                   </Button>
                   <Button size="lg" variant="outline" className="text-lg px-8 py-6" asChild>
-                    <a href="https://t.me/ProRemont65_bot" target="_blank" rel="noopener noreferrer">
+                    <a href="https://t.me/artem_gavrilko" target="_blank" rel="noopener noreferrer">
                       <Icon name="Send" size={20} className="mr-2" />
                       Telegram
                     </a>
