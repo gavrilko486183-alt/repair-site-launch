@@ -14,7 +14,7 @@ const Index = () => {
     setIsSubmitting(true);
     
     try {
-      const response = await fetch('https://functions.poehali.dev/0dd5aea3-c4cb-4ce3-b5e7-8d7b6d1115dc', {
+      const response = await fetch('https://functions.poehali.dev/dc82555b-afe0-4f43-94a0-829a7352eb7a', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
