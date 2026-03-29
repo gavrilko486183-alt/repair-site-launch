@@ -350,9 +350,9 @@ const Index = () => {
                     </a>
                   </Button>
                   <Button size="lg" variant="outline" className="text-lg px-8 py-6" asChild>
-                    <a href="https://wa.me/79244834514" target="_blank" rel="noopener noreferrer">
-                      <Icon name="MessageCircle" size={20} className="mr-2" />
-                      WhatsApp
+                    <a href="https://t.me/ProRemont65_bot" target="_blank" rel="noopener noreferrer">
+                      <Icon name="Send" size={20} className="mr-2" />
+                      Telegram
                     </a>
                   </Button>
                 </div>
